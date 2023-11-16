@@ -1,3 +1,3 @@
-# UNDCBus
+# Basura
+Aplicacion movil para el servicio de recoleccion de basura
 
-Aplicacion movil para el servicio de transporte universitario de universidades publicas
